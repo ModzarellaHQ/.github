@@ -5,4 +5,4 @@
 - [**Modzarella**](https://github.com/ModzarellaHQ/Modzarella): the app, in-game menu and Lua engine
 - [**Modz**](https://github.com/ModzarellaHQ/Modz): the mods, and how to make your own
 
-[modzarella.dev](https://modzarella.dev) · macOS · Windows · Linux
+[modza.space](https://modza.space) · macOS · Windows · Linux
