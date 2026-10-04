@@ -1,8 +1,10 @@
 <img src="banner.png" alt="Modzarella" width="100%">
 
-Modzarella is a mod manager for [Cheese Rolling](https://store.steampowered.com/app/3809440/). It runs on macOS, Windows and Linux.
+**Mods for [Cheese Rolling](https://store.steampowered.com/app/3809440/), one click away.** Pick your mods, press Play.
 
-- [**Modzarella**](https://github.com/ModzarellaHQ/Modzarella): the app
-- [**Modz**](https://github.com/ModzarellaHQ/Modz): where mods are made and shared
+| | |
+|---|---|
+| [**Modzarella**](https://github.com/ModzarellaHQ/Modzarella) | The app, the in-game menu and the Lua engine |
+| [**Modz**](https://github.com/ModzarellaHQ/Modz) | The mods, and how to make your own |
 
-[modzarella.dev](https://modzarella.dev)
+[modzarella.dev](https://modzarella.dev) · macOS · Windows · Linux
